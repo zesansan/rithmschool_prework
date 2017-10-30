@@ -9,13 +9,13 @@
 6. `rm copy.txt`
 7. `cd ..` 
 	`cp -r first second`
-8. `rm -rf second `
+8. `rm -rf second`
 
 **Part II** 
 
-1. The man command stands for the manual for the command and lists all of the command's flags. Use arrow keys to navigate, and q to quit. 
+1. The `man` command stands for the manual for the command and lists all of the command's flags. Use arrow keys to navigate, and `q` to quit. 
 
-2. ls -l will list all of the files in long format .ls -a will list all of the entries in a directory including the hidden files that begin with a dot. 
+2. `ls -l` will list all of the files in long format.`ls -a` will list all of the entries in a directory including the hidden files that begin with a dot. 
 
 3. Done.
 
