@@ -1,0 +1,166 @@
+body{
+	font-size: 13pt;
+	font-family: Verdana,Arial,sans-serif;
+	background-color: #CCC
+}
+
+div#container {
+	width: 1008px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	background: #ffffff;
+	border-left: solid 1px #333;
+	border-right: solid 2px #333;
+}
+a:link{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+ul#left_nav{
+	line-height: 19px;
+}
+
+li.ln_section{
+	font-size: 10pt;
+	font-weight: bold;
+}
+li.ln_link{
+	font-size: 10pt;
+}
+
+
+div#header{
+	font-size: 11px;
+	margin: 0px;
+	height: 15px;
+	padding: 2px 5px;
+	background: #666;
+	color: white;
+}
+
+div#header a{
+	color: white;
+}
+
+div.banner{
+	float: left;
+	top: 30px;
+	margin-left: 10px;
+	background: none;
+}
+
+div.social_media{
+	float: right;
+	margin-top: 10px;
+}
+
+div.tabs {
+	padding-top: 0px;
+	text-align: left;
+	font-weight: bold;
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #880000;
+	margin-top: 30px;
+}
+
+div#main { 
+	width: 1008px;
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+}
+div#left_nav {
+	width: 100px;
+	margin: 0px;
+	float: left;
+}
+
+div#col_2 {
+	width: 302px;
+	float: left;
+	margin-left: 80px;
+	margin-top: 0px;
+
+}
+
+div#col_3 {
+	width: 250px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 0px;
+
+}
+
+div#col_4 {
+	width:200px;
+	margin-left: 800px;
+
+}
+
+div#hp_footer {
+	border-top: 1px solid #999;
+	margin-top: 800px;
+	padding: 10px 0px 20px;
+	color: #333;
+	text-align: center;
+	background: #eee;
+}
+div#footer_links {
+	text-align: left;
+	float:left;
+	width:520px;
+	padding:0;
+}
+
+#footer_links a {
+	color: #333;
+}
+ul.footer_link_list {
+	width:120px;
+	margin-left: 0px;
+	margin-right:10px;
+	float:left;
+	text-align: left;
+	list-style: none;
+	padding:0px;
+	margin-top: 0;
+}
+
+div#copyright {
+	float: left;
+	text-align: left;
+	width:245px;
+	font-size:9px;
+	padding-bottom: 20px;
+}
+#copyright a img {
+	border: none;
+}
+#copyright p {
+	margin: 0px;
+}
+
+table.box_office{
+	font-size: 9pt;
+	border: 1px solid black;
+	padding: 2px 0px;
+	margin-bottom: 10px;
+}
+
+table.its_own_thang{
+	font-size: 9pt;
+}
+
+.more_link a{
+	text-transform: uppercase; 
+}
+
+.article{
+	color: #880000;
+}

@@ -1,0 +1,19 @@
+body{
+	background-color: #66ccff;
+	font-family: sans-serif;
+}
+
+div#wrap{
+	width: 800px;
+	margin: auto;
+}
+
+div>ul{
+	text-align: center;
+	line-height: 20pt;
+
+}
+
+li::first-letter{
+	font-size: 150%;
+}

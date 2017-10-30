@@ -1,0 +1,51 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	color: #828282;
+}
+a:link{ 
+	color:#000000; 
+	text-decoration:none; 
+}
+
+table{
+	background-color: #f6f6ef
+}
+.main{
+	color: #000000;
+}
+
+.footer{
+	height: 50px;
+}
+
+.details, .source{
+	font-size: 8.5pt;
+	color: #828282;
+}
+
+.article_title{
+	color: #000000;
+}
+
+.icon{
+	border: 1px;
+	border-color: #FFFFFF;
+}
+
+.header{
+	background-color: #FF6600;
+	margin: 5px;
+}
+
+.header:link{
+	color: #000000;
+	text-decoration: none;
+}
+.header:visited{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.footer{
+	font-size: 8.5pt;
+}

@@ -1,0 +1,40 @@
+body {
+    font-family: 'Noto Sans', sans-serif  
+}
+.main{
+	align-content: center;
+}
+.search_bar {
+	width: 460px; 
+	box-shadow: 0px 3px 4px #D3D3D3;
+	margin-top: 30px;
+}
+
+.search_bar input{
+	width: 460px;
+	height: 37px;
+	
+}
+
+.google{
+	margin-top: 70px;
+	
+}
+.google img{
+	width: 400px;
+
+}
+.buttons{
+	margin-top: 30px;
+}
+.buttons input{
+	background-color: #ededed;
+	width: 160px;
+	height: 35px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #696969;
+	border: none;
+	border-radius: 2px;
+
+}
