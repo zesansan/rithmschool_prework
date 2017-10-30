@@ -15,7 +15,7 @@ table{
 	position: absolute;
 	left: 50%;
 	margin-left: -155px;
-	top: 5;
+	top: 50px;
 }
 
 table tr:first-child td{
@@ -36,9 +36,11 @@ table tr td:last-child {
 
 .endgame {
 	width: 200px;
-	top: 120px;
 	background-color: lightblue;
-	position:; absolute;
+	position: absolute;
+	margin-left: -98px;
+	left: 50%;
+	margin-top: 380px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	text-align: center;

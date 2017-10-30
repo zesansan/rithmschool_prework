@@ -99,7 +99,6 @@ describe("#getSongCountByArtist", function(){
   });
   it("should be an object", function(){
     expect(typeof getSongCountByArtist(songs)).to.equal("object");
-    
   });
 });
 
