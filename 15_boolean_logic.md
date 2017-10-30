@@ -23,12 +23,14 @@
 
 **Part III**
 
-1. var number = Math.random();
-	if(number > 0.5){
-	console.log("Over 0.5");
-	}
-	else if(number < 0.5){
-	console.log("Under 0.5")
-	}
+1. Math.Random();
+ 
+		var number = Math.random();
+			if(number > 0.5){
+			console.log("Over 0.5");
+		}	else if(number < 0.5){
+			console.log("Under 0.5")
+		}
 	
+
 2. A falsey value is a value that is false when inside of a conditional statement. 0, "", null, undefined, NaN.
